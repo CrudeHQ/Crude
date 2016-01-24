@@ -1,0 +1,16 @@
+/*Not Include*/
+.box {
+ background: #5677fc;
+ font-family: inherit;
+ font-size: 12px;
+ text-align: center;
+ padding: 20px 0; 
+ border: 1px solid #eee;}
+.box--new {
+ background: #5677fc; 
+}
+
+/*****************************Framework Starts From Here******************************/
+/*
+ * Remove default Margin.
+ */
