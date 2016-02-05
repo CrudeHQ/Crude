@@ -646,4 +646,47 @@ a.text-muted:hover{
 .m-offset-12 {
   margin-left: 100%; 
 }
+/*
+* Pull M
+*/
+.m-pull-0 {
+  right: 0%; 
+}
+.m-pull-1 {
+  right: 8.3333333%; 
+}
+.m-pull-2 {
+  right: 16.6666666%; 
+}
+.m-pull-3 {
+  right: 25%; 
+}
+.m-pull-4 {
+  right: 33.3333333%; 
+}
+.m-pull-5 {
+  right: 41.6666666%; 
+}
+.m-pull-6 {
+  right: 50%; 
+}
+.m-pull-7 {
+  right: 58.3333333%; 
+}
+.m-pull-8 {
+  right: 66.6666666%; 
+}
+.m-pull-9 {
+  right: 75%; 
+}
+.m-pull-10 {
+  right: 83.3333333%; 
+}
+.m-pull-11 {
+  right: 91.6666666%; 
+}
+.m-pull-12 {
+  right: 100%; 
+}
+
 
