@@ -857,3 +857,47 @@ a.text-muted:hover{
   right: 100%; 
 }
 
+/*
+*Push L
+*/
+.l-push-0 {
+  left: 0%; 
+}
+.l-push-1 {
+  left: 8.3333333%; 
+}
+.l-push-2 {
+  left: 16.6666666%; 
+}
+.l-push-3 {
+  left: 25%; 
+}
+.l-push-4 {
+  left: 33.3333333%; 
+}
+.l-push-5 {
+  left: 41.6666666%; 
+}
+.l-push-6 {
+  left: 50%; 
+}
+.l-push-7 {
+  left: 58.3333333%; 
+}
+.l-push-8 {
+  left: 66.6666666%; 
+}
+.l-push-9 {
+  left: 75%; 
+}
+.l-push-10 {
+  left: 83.3333333%; 
+}
+.l-push-11 {
+  left: 91.6666666%; 
+}
+.l-push-12 {
+  left: 100%; 
+}
+}
+
