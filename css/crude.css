@@ -150,3 +150,21 @@ a.text-muted:hover{
   padding-top: 15px;
   padding-bottom: 15px; 
 }
+/*
+*Margins
+*/
+.m-n{
+  margin: 0px; 
+}
+.m-a{
+  margin: 15px; 
+}
+.m-lr{
+  margin-left: 15px;
+  margin-right: 15px; 
+}
+.m-tb{
+  margin-top: 0.4em;
+  margin-bottom: 0.4em; 
+}
+
