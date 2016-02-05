@@ -85,3 +85,36 @@ p{
 pre{
   overflow: auto;
 }
+a, 
+a:visited{
+  color:#304FFE;
+  text-decoration: none;
+}
+a:active, 
+a:hover {
+  outline: 0;
+}
+.text-warning{
+  color: #FFEB3B;
+}
+.text-success{
+  color: #00C853;
+}
+.text-danger{
+  color: #f44336;
+}
+.text-muted{
+  color: #9E9E9E;
+}
+a.text-warning:hover{
+  color: #FFD600;
+}
+a.text-success:hover{
+  color: #4CAF50;
+}
+a.text-danger:hover{
+  color: #d50000;
+}
+a.text-muted:hover{
+  color: #212121;
+}
