@@ -431,5 +431,47 @@ a.text-muted:hover{
   float: left;
   width: 100%; 
 }
+/*
+* Offset S
+*/
+.s-offset-0 {
+  margin-left: 0%; 
+}
+.s-offset-1 {
+  margin-left: 8.3333333%; 
+}
+.s-offset-2 {
+  margin-left: 16.6666666%; 
+}
+.s-offset-3 {
+  margin-left: 25%; 
+}
+.s-offset-4 {
+  margin-left: 33.3333333%; 
+}
+.s-offset-5 {
+  margin-left: 41.6666666%; 
+}
+.s-offset-6 {
+  margin-left: 50%; 
+}
+.s-offset-7 {
+  margin-left: 58.3333333%; 
+}
+.s-offset-8 {
+  margin-left: 66.6666666%; 
+}
+.s-offset-9 {
+  margin-left: 75%; 
+}
+.s-offset-10 {
+  margin-left: 83.3333333%; 
+}
+.s-offset-11 {
+  margin-left: 91.6666666%; 
+}
+.s-offset-12 {
+  margin-left: 100%; 
+}
 
 
