@@ -179,3 +179,30 @@ a.text-muted:hover{
 .f-r{
   float:right; 
 }
+/*------------------------------------*\
+              #Grids
+\*------------------------------------*/
+
+/*
+* Fixed Columns
+*/
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  display: table;
+}
+@media (min-width: 800px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 1000px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
