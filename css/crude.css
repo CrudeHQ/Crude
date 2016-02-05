@@ -732,5 +732,47 @@ a.text-muted:hover{
   left: 100%; 
 }
 }
-
+/*Tile Large*/
+@media (min-width: 1200px) {
+[class*='l-'] {
+  float: left;
+  position: relative;
+  min-height: 1px;
+}
+.l-1 {
+  width: 8.3333333%; 
+}
+.l-2 {
+  width: 16.6666666%; 
+}
+.l-3 {
+  width: 25%; 
+}
+.l-4 {
+  width: 33.3333333%; 
+}
+.l-5 {
+  width: 41.6666666%; 
+}
+.l-6 {
+  width: 50%; 
+}
+.l-7 {
+  width: 58.3333333%; 
+}
+.l-8 {
+  width: 66.6666666%; 
+}
+.l-9 {
+  width: 75%; 
+}
+.l-10 {
+  width: 83.3333333%; 
+}
+.l-11 {
+  width: 91.6666666%; 
+}
+.l-12 {
+  width: 100%; 
+}
 
