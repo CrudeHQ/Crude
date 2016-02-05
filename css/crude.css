@@ -374,4 +374,62 @@ a.text-muted:hover{
 .sx-push-12 {
   left: 100%; 
 }
+/*
+*Small grids
+*/
+[class*='s-'] {
+  position: relative;
+  min-height: 1px;
+}
+@media (min-width: 800px) {
+
+.s-1 {
+  float: left;
+  width: 8.3333333%; 
+}
+.s-2 {
+  float: left;
+  width: 16.6666666%; 
+}
+.s-3 {
+  float: left;
+  width: 25%; 
+}
+.s-4 {
+  float: left;
+  width: 33.3333333%; 
+}
+.s-5 {
+  float: left;
+  width: 41.6666666%; 
+}
+.s-6 {
+  float: left;
+  width: 50%; 
+}
+.s-7 {
+  float: left;
+  width: 58.3333333%; 
+}
+.s-8 {
+  float: left;
+  width: 66.6666666%; 
+}
+.s-9 {
+  float: left;
+  width: 75%; 
+}
+.s-10 {
+  float: left;
+  width: 83.3333333%; 
+}
+.s-11 {
+  float: left;
+  width: 91.6666666%; 
+}
+.s-12 {
+  float: left;
+  width: 100%; 
+}
+
 
