@@ -1021,3 +1021,39 @@ a.text-muted:hover{
   width: 100%;  
 }
 }
+/*
+* L Liquid Grid
+*/
+@media (min-width: 1200px) {
+.l-liquid-g-1 > li {
+  float: left;
+  list-style: none;
+  width: 8.3333333%;  
+}
+.l-liquid-g-2 > li {
+  float: left;
+  list-style: none;
+  width: 16.6666666%;   
+}
+.l-liquid-g-3 > li {
+  float: left;
+  list-style: none;
+  width: 25%;  
+}
+.l-liquid-g-4 > li {
+  float: left;
+  list-style: none;
+  width: 33.3333333%;  
+}
+.l-liquid-g-5 > li {
+  float: left;
+  list-style: none;
+  width: 50%;  
+}
+.l-liquid-g-6 > li {
+  float: left;
+  list-style: none;
+  width: 100%;  
+}
+}
+
