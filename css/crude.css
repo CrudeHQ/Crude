@@ -331,3 +331,47 @@ a.text-muted:hover{
 .sx-pull-12 {
   right: 100%; 
 }
+
+/*
+*Pull XS
+*/
+.sx-push-0 {
+  left: 0%; 
+}
+.sx-push-1 {
+  left: 8.3333333%; 
+}
+.sx-push-2 {
+  left: 16.6666666%; 
+}
+.sx-push-3 {
+  left: 25%; 
+}
+.sx-push-4 {
+  left: 33.3333333%; 
+}
+.sx-push-5 {
+  left: 41.6666666%; 
+}
+.sx-push-6 {
+  left: 50%; 
+}
+.sx-push-7 {
+  left: 58.3333333%; 
+}
+.sx-push-8 {
+  left: 66.6666666%; 
+}
+.sx-push-9 {
+  left: 75%; 
+}
+.sx-push-10 {
+  left: 83.3333333%; 
+}
+.sx-push-11 {
+  left: 91.6666666%; 
+}
+.sx-push-12 {
+  left: 100%; 
+}
+
