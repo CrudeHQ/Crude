@@ -607,5 +607,43 @@ a.text-muted:hover{
 .m-0 {
   margin-left: 0%; 
 }
-
+/*
+*Medium Offset
+*/
+.m-offset-1 {
+  margin-left: 8.3333333%; 
+}
+.m-offset-2 {
+  margin-left: 16.6666666%; 
+}
+.m-offset-3 {
+  margin-left: 25%; 
+}
+.m-offset-4 {
+  margin-left: 33.3333333%; 
+}
+.m-offset-5 {
+  margin-left: 41.6666666%; 
+}
+.m-offset-6 {
+  margin-left: 50%; 
+}
+.m-offset-7 {
+  margin-left: 58.3333333%; 
+}
+.m-offset-8 {
+  margin-left: 66.6666666%; 
+}
+.m-offset-9 {
+  margin-left: 75%; 
+}
+.m-offset-10 {
+  margin-left: 83.3333333%; 
+}
+.m-offset-11 {
+  margin-left: 91.6666666%; 
+}
+.m-offset-12 {
+  margin-left: 100%; 
+}
 
