@@ -473,5 +473,47 @@ a.text-muted:hover{
 .s-offset-12 {
   margin-left: 100%; 
 }
+/*
+* Pull S
+*/
+.s-pull-0 {
+  right: 0%; 
+}
+.s-pull-1 {
+  right: 8.3333333%; 
+}
+.s-pull-2 {
+  right: 16.6666666%; 
+}
+.s-pull-3 {
+  right: 25%; 
+}
+.s-pull-4 {
+  right: 33.3333333%; 
+}
+.s-pull-5 {
+  right: 41.6666666%; 
+}
+.s-pull-6 {
+  right: 50%; 
+}
+.s-pull-7 {
+  right: 58.3333333%; 
+}
+.s-pull-8 {
+  right: 66.6666666%; 
+}
+.s-pull-9 {
+  right: 75%; 
+}
+.s-pull-10 {
+  right: 83.3333333%; 
+}
+.s-pull-11 {
+  right: 91.6666666%; 
+}
+.s-pull-12 {
+  right: 100%; 
+}
 
 
