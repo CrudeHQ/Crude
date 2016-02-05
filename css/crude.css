@@ -133,3 +133,20 @@ a.text-muted:hover{
 .text-justify{
   text-align: justify;
 }
+/*
+* Paddings
+*/
+.p-n{
+  padding: 0px; 
+}
+.p-a{
+  padding: 15px; 
+}
+.p-lr{
+  padding-left: 15px;
+  padding-right: 15px; 
+}
+.p-tb{
+  padding-top: 15px;
+  padding-bottom: 15px; 
+}
