@@ -167,4 +167,15 @@ a.text-muted:hover{
   margin-top: 0.4em;
   margin-bottom: 0.4em; 
 }
-
+/*
+*Floats
+*/
+.f-n{
+  float:none; 
+}
+.f-l{
+  float:left; 
+}
+.f-r{
+  float:right; 
+}
