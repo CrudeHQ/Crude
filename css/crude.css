@@ -900,4 +900,23 @@ a.text-muted:hover{
   left: 100%; 
 }
 }
+/*
+* Liquid Grids
+*/
+[class*="liquid-g-"] {
+  display: block;
+  padding: 0;
+}
+[class*="liquid-g-"]:before, 
+[class*="liquid-g-"]:after {
+  content: " ";
+  display: table; 
+}
+[class*="inline-g-"]:after {
+  clear: both; 
+}
+[class*="liquid-g-"] > li {
+  display: block; 
+  list-style: none;
+}
 
