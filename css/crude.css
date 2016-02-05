@@ -206,3 +206,44 @@ a.text-muted:hover{
     width: 1170px;
   }
 }
+[class*='sx-'] {
+  float: left;
+  position: relative;
+  min-height: 1px;
+}
+.sx-1 {
+  width: 8.3333333%; 
+}
+.sx-2 {
+  width: 16.6666666%; 
+}
+.sx-3 {
+  width: 25%; 
+}
+.sx-4 {
+  width: 33.3333333%; 
+}
+.sx-5 {
+  width: 41.6666666%; 
+}
+.sx-6 {
+  width: 50%; 
+}
+.sx-7 {
+  width: 58.3333333%; 
+}
+.sx-8 {
+  width: 66.6666666%; 
+}
+.sx-9 {
+  width: 75%; 
+}
+.sx-10 {
+  width: 83.3333333%; 
+}
+.sx-11 {
+  width: 91.6666666%; 
+}
+.sx-12 {
+  width: 100%; 
+}
