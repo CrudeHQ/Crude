@@ -986,3 +986,38 @@ a.text-muted:hover{
   width: 100%;  
 }
 }
+/*
+* M Liquid Grid
+*/
+@media (min-width: 1000px) {
+.m-liquid-g-1 > li {
+  float: left;
+  list-style: none;
+  width: 8.3333333%;  
+}
+.m-liquid-g-2 > li {
+  float: left;
+  list-style: none;
+  width: 16.6666666%;   
+}
+.m-liquid-g-3 > li {
+  float: left;
+  list-style: none;
+  width: 25%;  
+}
+.m-liquid-g-4 > li {
+  float: left;
+  list-style: none;
+  width: 33.3333333%;  
+}
+.m-liquid-g-5 > li {
+  float: left;
+  list-style: none;
+  width: 50%;  
+}
+.m-liquid-g-6 > li {
+  float: left;
+  list-style: none;
+  width: 100%;  
+}
+}
