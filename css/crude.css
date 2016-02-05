@@ -951,3 +951,38 @@ a.text-muted:hover{
   list-style: none;
   width: 100%;  
 }
+/*
+* S Liquid Grid
+*/
+@media (min-width: 800px) {
+.s-liquid-g-1 > li {
+  float: left;
+  list-style: none;
+  width: 8.3333333%;  
+}
+.s-liquid-g-2 > li {
+  float: left;
+  list-style: none;
+  width: 16.6666666%;   
+}
+.s-liquid-g-3 > li {
+  float: left;
+  list-style: none;
+  width: 25%;  
+}
+.s-liquid-g-4 > li {
+  float: left;
+  list-style: none;
+  width: 33.3333333%;  
+}
+.s-liquid-g-5 > li {
+  float: left;
+  list-style: none;
+  width: 50%;  
+}
+.s-liquid-g-6 > li {
+  float: left;
+  list-style: none;
+  width: 100%;  
+}
+}
