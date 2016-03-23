@@ -80,22 +80,22 @@ a:hover {
   color: #FFEB3B;
 }
 .text-success{
-  color: #00C853;
+  color: #43A047;
 }
 .text-danger{
-  color: #f44336;
+  color: #E53935;
 }
 .text-muted{
-  color: #9E9E9E;
+  color: #757575;
 }
 a.text-warning:hover{
   color: #FFD600;
 }
 a.text-success:hover{
-  color: #4CAF50;
+  color: #1B5E20;
 }
 a.text-danger:hover{
-  color: #d50000;
+  color: #D50000;
 }
 a.text-muted:hover{
   color: #212121;
