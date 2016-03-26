@@ -1038,4 +1038,59 @@ a.text-muted:hover{
   width: 100%;  
 }
 }
+/*Tables*/
+table{
+  max-width: 100%;
+  border-collapse: collapse;
+}
+.table{
+  width:100%;
+}
+.table > thead > tr > th,
+.table > tbody > tr > td,
+.table > tfoot > tr > td{
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ccc;
+  vertical-align: bottom;
+}
+.table > thead > tr > th,
+.table > tfoot > tr >td{
+  border:0px;
+}
+.table > thead > tr > th {
+  border-bottom: 2px solid #ccc;
+}
+/*Border Tables*/
+.border{
+  border: 1px solid #ccc;
+}
+.border > thead > tr > th,
+.border > tbody > tr > td,
+.border > tfoot > tr > td{
+  border-right: 1px solid #ccc;
+} 
+.border > .table > thead tr > th{
+  border-bottom: 2px solid #ccc;
+}
+/*Hover Tables*/
+.hover > tbody > tr:hover > td,
+.hover > tfoot > tr:hover > td{
+  background-color: #DEDEDE;
+} 
+/*Striped Tables*/
+.stripe > tbody > tr:nth-child(odd) > td,
+.stripe > tbody > tr:nth-child(odd) > th{
+  background-color: #eee;
+} 
+@media (max-width:800px){
+  .table-main{
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    margin-bottom: 20px;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+  }
+}
 
