@@ -1093,4 +1093,143 @@ table{
     -ms-overflow-style: -ms-autohiding-scrollbar;
   }
 }
+/*Buttons*/
+button,.button{ 
+ -webkit-appearance: none;
+  -moz-appearance: none;
+  border-radius: 0;
+  border-style: solid;
+  border-width: 0;
+  cursor: pointer;
+  font-family: sans-serif;
+  font-weight: normal;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  transition: background-color 300ms ease-out;
+}
+button,.btn-round{ 
+  border-radius: 5px;
+ }
+.btn-disabled[disabled]{ 
+  background-color:#fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  opacity: 0.8;
+  cursor: default;
+ }
+.button.primary,.btn-round.primary{
+  background-color: #2196F3;
+  border-color: #2196F3;
+  color: #fff;
+}
+.button.primary:hover, .btn-round.primary:hover, 
+.button.primary:focus, .btn-round.primary:focus, 
+.button.primary:active, .btn-round.primary:active{
+  background-color:#1565C0;
+  border-color:#1565C0;
+}
+.button.default,.btn-round.default{
+  background-color:#fff;
+  border: 1px solid #ccc;
+  color: #000;
+}
+.button.default:hover, .btn-round.default:hover, 
+.button.default:focus, .btn-round.default:focus, 
+.button.default:active, .btn-round.default:active{
+  background-color:#eee;
+  border-color:#ccc;
+}
+.button.info,.btn-round.info{
+  background-color:#757575;
+  border-color: #757575;
+  color: #fff;
+}
+.button.info:hover, .btn-round.info:hover, 
+.button.info:focus, .btn-round.info:focus, 
+.button.info:active, .btn-round.info:active{
+  background-color:#212121;
+}
+.button.success, .btn-round.success{
+  background-color:#43A047;
+  border-color: #43A047;
+  color: #fff;
+}
+.button.success:hover, .btn-round.success:hover,
+.button.success:focus, .btn-round.success:focus,
+.button.success:active, .btn-round.success:active{
+  background-color:#1B5E20;
+}
+.button.danger, .btn-round.danger{
+  background-color:#E53935;
+  border-color: #E53935;
+  color: #fff;
+}
+.button.danger:hover, .btn-round.danger:hover,
+.button.danger:focus, .btn-round.danger:focus,
+.button.danger:active, .btn-round.danger:active{
+  background-color:#D50000;
+}
+.button.warning, .btn-round.warning{
+  background-color:#FFEB3B;
+  border-color: #FFEB3B;
+  color: #fff;
+}
+.button.warning:hover, .btn-round.warning:hover,
+.button.warning:focus, .btn-round.warning:focus,
+.button.warning:active,.btn-round.warning:active{
+  background-color:#FFD600;
+}
+.button.btn-sx, .btn-round.btn-sx,
+.button.info.btn-sx, .btn-round.info.btn-sx,
+.button.primary.btn-sx, .btn-round.primary.btn-sx,
+.button.default.btn-sx, .btn-round.default.btn-sx,
+.button.success.btn-sx, .button-round.success.btn-sx,
+.button.danger.btn-sx, .button-round.danger.btn-sx,
+.button.warning.btn-sx, .button-round.warning.btn-sx{
+  padding: 6px 8px 6px 8px;
+  font-size: 11px; 
+}
+.button.btn-s, .btn-round.btn-s,
+.button.info.btn-s, .btn-round.info.btn-s,
+.button.primary.btn-s, .btn-round.primary.btn-s,
+.button.default.btn-s, .btn-round.default.btn-s,
+.button.success.btn-s, .btn-round.success.btn-s,
+.button.danger.btn-s, .btn-round.danger.btn-s,
+.button.warning.btn-s, .btn-round.warning.btn-s{
+  padding: 8px 10px 8px 10px;
+  font-size: 14px; 
+}
+.button.btn-m, .btn-round.btn-m,
+.button.info.btn-m, .btn-round.info.btn-m,
+.button.primary.btn-m, .btn-round.primary.btn-m,
+.button.default.btn-m, .btn-round.default.btn-m,
+.button.success.btn-m, .btn-round.success.btn-m,
+.button.danger.btn-m, .btn-round.danger.btn-m,
+.button.warning.btn-m, .btn-round.warning.btn-m{
+  padding: 10px 12px 10px 12px;
+  font-size: 16px;
+}
 
+.button.btn-l,.btn-round.btn-l,
+.button.info.btn-l,.btn-round.info.btn-l,
+.button.primary.btn-l, .btn-round.primary.btn-l,
+.button.default.btn-l, .btn-round.default.btn-l,
+.button.success.btn-l,.btn-round.success.btn-l,
+.button.danger.btn-l,.btn-round.danger.btn-l,
+.button.warning.btn-l, .btn-round.warning.btn-l{
+  padding: 12px 14px 12px 14px;
+  font-size: 18px; 
+}
+.button.btn-xl,.btn-round.btn-xl,
+.button.info.btn-xl,.btn-round.info.btn-xl,
+.button.default.btn-xl, .btn-round.default.btn-xl,
+.button.success.btn-xl,.btn-round.success.btn-xl,
+.button.danger.btn-xl,.btn-round.danger.btn-xl,
+.button.warning.btn-xl,.button-round.warning.btn-xl{
+  padding: 14px 16px 14px 16px;
+  font-size: 20px;
+  width: 100%; 
+}
