@@ -1233,3 +1233,41 @@ button,.btn-round{
   font-size: 20px;
   width: 100%; 
 }
+.avatar{
+  display: inline-block;
+  vertical-align: middle;
+  overflow: hidden;
+  position: relative;
+  margin: 10px;
+  border-radius: 1000px;
+}
+.avatar > img{
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.avatar-xl{
+  width: 150px;
+  min-width: 150px;
+  height: 150px;
+}
+.avatar-l{
+  width: 100px;
+  min-width: 100px;
+  height: 100px;
+}
+.avatar-m{
+  width: 50px;
+  min-width: 50px;
+  height: 50px;
+}
+.avatar-s{
+  width: 25px;
+  min-width: 25px;
+  height: 25px;
+}
+.avatar-sx{
+  width: 16px;
+  min-width: 16px;
+  height: 16px;
+}
