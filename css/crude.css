@@ -1401,7 +1401,7 @@ button,.btn-round{
 }
 /*Tootip Warning*/
 [data-tooltip-status="warning"]:after {
-    background-color: #FFEB3B!important;
+    background-color: #FFD600!important;
 }
 [data-tooltip-status="warning"]:before{
     border-color: #FFD600 transparent!important;
