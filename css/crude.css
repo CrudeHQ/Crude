@@ -1413,3 +1413,7 @@ button,.btn-round{
 [data-tooltip-status="danger"]:before{
     border-color: #E53935 transparent!important;
 }
+/*Tooltip Round*/
+[data-tooltip-border="round"]:after {
+    border-radius: 5px;
+}
