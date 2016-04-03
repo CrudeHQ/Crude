@@ -1417,3 +1417,23 @@ button,.btn-round{
 [data-tooltip-border="round"]:after {
     border-radius: 5px;
 }
+/*Tooltip Size*/
+[data-tooltip-size="sx"]:after {
+    white-space: normal;
+}
+[data-tooltip-size="s"]:after {
+    width:80px;
+    white-space: normal!important;
+}
+[data-tooltip-size="m"]:after {
+    width:150px;
+    white-space: normal!important;
+}
+[data-tooltip-size="l"]:after {
+    width:220px;
+    white-space: normal!important;
+}
+[data-tooltip-size="fit"]:after {
+    width:100%;
+    white-space: normal!important;
+}
