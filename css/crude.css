@@ -1385,3 +1385,31 @@ button,.btn-round{
     position: absolute;
     white-space: nowrap;
 }
+/*Tootip Info*/
+[data-tooltip-status="info"]:after {
+    background-color: #757575!important;
+}
+[data-tooltip-status="info"]:before{
+    border-color: #757575 transparent!important;
+}
+/*Tootip Success*/
+[data-tooltip-status="success"]:after {
+    background-color: #43A047!important;
+}
+[data-tooltip-status="success"]:before{
+    border-color: #43A047 transparent!important;
+}
+/*Tootip Warning*/
+[data-tooltip-status="warning"]:after {
+    background-color: #FFEB3B!important;
+}
+[data-tooltip-status="warning"]:before{
+    border-color: #FFD600 transparent!important;
+}
+/*Tootip Danger*/
+[data-tooltip-status="danger"]:after {
+    background-color: #E53935!important;
+}
+[data-tooltip-status="danger"]:before{
+    border-color: #E53935 transparent!important;
+}
