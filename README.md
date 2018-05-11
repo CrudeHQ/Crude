@@ -14,7 +14,7 @@ There are a couple ways to download Crude:
 
 ### What's in the download?
 
-The download includes Skeleton's CSS, Normalize CSS as a reset, a sample favicon, and an index.html as a starting point.
+The download includes Crude's CSS, Normalize CSS as a reset, a sample favicon, and an index.html as a starting point.
 
 ```
 Crude/
@@ -43,12 +43,12 @@ Crude is lightweight and simple. It styles only raw HTML elements (with a few ex
 - Safari latest
 - IE latest
 
-The above list is non-exhaustive. Skeleton works perfectly with almost all older versions of the browsers above, though IE certainly has large degradation prior to IE9.
+The above list is non-exhaustive. Crude works perfectly with almost all older versions of the browsers above, though IE certainly has large degradation prior to IE9.
 
 
 ## License
 
-All parts of Skeleton are free to use and abuse under the [open-source MIT license](https://github.com/CrudeHQ/Crude/blob/master/LICENSE).
+All parts of Crude are free to use and abuse under the [open-source MIT license](https://github.com/CrudeHQ/Crude/blob/master/LICENSE).
 
 
 ## Extensions
@@ -59,4 +59,4 @@ Have an extension you want to see here? Just shoot an email to support@muhammads
 
 ## Acknowledgement
 
-Skeleton was created by [Muhammad Shoaib](https://twitter.com/idavidquetta).
+Crude was created by [Muhammad Shoaib](https://twitter.com/idavidquetta).
