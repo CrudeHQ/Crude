@@ -59,4 +59,4 @@ Have an extension you want to see here? Just shoot an email to support@muhammads
 
 ## Acknowledgement
 
-Crude was created by [Muhammad Shoaib](https://twitter.com/idavidquetta).
+Crude was created by [Muhammad Shoaib](http://muhammadshoaib.me).
